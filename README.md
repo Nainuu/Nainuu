@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🤝 I’m a team guy who believes in comradeship <br>🌱 I’m currently learning Node and Express<br>💬 i'm Punctual and Discipline<br>⚡ Fun fact - i love Mountains
+🔭 I’m currently working on Web Development<br>🤝 I’m a team guy who believes in comradeship <br>🌱 I’m currently learning Node and Express<br>💬 i'm Punctual and Disciplined<br>⚡ Fun fact - i love Mountains
 
 
 ## 🌐 Socials:
